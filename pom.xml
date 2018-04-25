@@ -5,7 +5,7 @@
   <artifactId>tfc</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>asss-webbg Maven Webapp</name>
+  <name>tfc Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
 		<!-- spring版本号 -->
@@ -213,7 +213,7 @@
 		
   </dependencies>
   <build>
-    <finalName>asss-webbg</finalName>
+    <finalName>tfc</finalName>
     <plugins>  
     <plugin>  
         <groupId>org.apache.maven.plugins</groupId>  
